@@ -1,0 +1,35 @@
+running egg_info
+creating ../../build/ft232h/ft232h.egg-info
+writing ../../build/ft232h/ft232h.egg-info/PKG-INFO
+writing dependency_links to ../../build/ft232h/ft232h.egg-info/dependency_links.txt
+writing entry points to ../../build/ft232h/ft232h.egg-info/entry_points.txt
+writing requirements to ../../build/ft232h/ft232h.egg-info/requires.txt
+writing top-level names to ../../build/ft232h/ft232h.egg-info/top_level.txt
+writing manifest file '../../build/ft232h/ft232h.egg-info/SOURCES.txt'
+reading manifest file '../../build/ft232h/ft232h.egg-info/SOURCES.txt'
+writing manifest file '../../build/ft232h/ft232h.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /var/home/core/ros2_ws/build/ft232h/build
+creating /var/home/core/ros2_ws/build/ft232h/build/lib
+creating /var/home/core/ros2_ws/build/ft232h/build/lib/ft232h
+copying ft232h/__init__.py -> /var/home/core/ros2_ws/build/ft232h/build/lib/ft232h
+copying ft232h/ultrasonic.py -> /var/home/core/ros2_ws/build/ft232h/build/lib/ft232h
+running install
+running install_lib
+creating /var/home/core/ros2_ws/install/ft232h/lib/python3.12/site-packages/ft232h
+copying /var/home/core/ros2_ws/build/ft232h/build/lib/ft232h/__init__.py -> /var/home/core/ros2_ws/install/ft232h/lib/python3.12/site-packages/ft232h
+copying /var/home/core/ros2_ws/build/ft232h/build/lib/ft232h/ultrasonic.py -> /var/home/core/ros2_ws/install/ft232h/lib/python3.12/site-packages/ft232h
+byte-compiling /var/home/core/ros2_ws/install/ft232h/lib/python3.12/site-packages/ft232h/__init__.py to __init__.cpython-312.pyc
+byte-compiling /var/home/core/ros2_ws/install/ft232h/lib/python3.12/site-packages/ft232h/ultrasonic.py to ultrasonic.cpython-312.pyc
+running install_data
+creating /var/home/core/ros2_ws/install/ft232h/share/ament_index
+creating /var/home/core/ros2_ws/install/ft232h/share/ament_index/resource_index
+creating /var/home/core/ros2_ws/install/ft232h/share/ament_index/resource_index/packages
+copying resource/ft232h -> /var/home/core/ros2_ws/install/ft232h/share/ament_index/resource_index/packages
+copying package.xml -> /var/home/core/ros2_ws/install/ft232h/share/ft232h
+running install_egg_info
+Copying ../../build/ft232h/ft232h.egg-info to /var/home/core/ros2_ws/install/ft232h/lib/python3.12/site-packages/ft232h-0.0.0-py3.12.egg-info
+running install_scripts
+Installing ultrasonic script to /var/home/core/ros2_ws/install/ft232h/lib/ft232h
+writing list of installed files to '/var/home/core/ros2_ws/build/ft232h/install.log'

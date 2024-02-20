@@ -1,0 +1,2 @@
+[console_scripts]
+ultrasonic = ft232h.ultrasonic:main

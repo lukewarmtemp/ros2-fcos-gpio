@@ -1,0 +1,6 @@
+source;share/ft232h/hook/pythonpath.ps1
+source;share/ft232h/hook/pythonpath.dsv
+source;share/ft232h/hook/pythonpath.sh
+source;share/ft232h/hook/ament_prefix_path.ps1
+source;share/ft232h/hook/ament_prefix_path.dsv
+source;share/ft232h/hook/ament_prefix_path.sh
